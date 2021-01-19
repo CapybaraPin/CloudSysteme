@@ -1,0 +1,37 @@
+    a.read{
+      color: green;
+      padding-left: 10px;
+    }
+      a.download{
+      color: grey;
+       padding-left: 10px;
+    }
+
+        a.del{
+      color: red;
+       padding-left: 10px;
+    } 
+
+     a.read:hover{
+        color: #fff;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: green;
+    }
+      a.download:hover{
+        color: #fff;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: grey;
+    }
+
+        a.del:hover{
+       color: #fff;
+       padding-left: 10px;
+       padding-right: 10px;
+       background-color: red;
+    } 
+
+      a{
+        text-decoration: none;
+      }
